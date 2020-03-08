@@ -1,0 +1,17 @@
+.btn-primary:{
+    color: #ffffff;
+    background-color: #6610f2 !important;
+    border-color: #6610f2 !important;
+    box-shadow: none;
+}
+
+.btn-primary:hover {
+    color: #ffffff;
+    background-color: #6f42c1 !important;
+    border-color: #6f42c1 !important;
+}
+
+.nav-pills .nav-link.active{
+    background-color:#6f42c1 !important
+}
+
